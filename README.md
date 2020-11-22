@@ -8,8 +8,7 @@ this application will only meet the below use case.
 - Add a contact
 - Edit contact
 - Delete/Inactivate a contact
-
-## (No Authentication provided, No logging provided (That doesn't mean I am not aware of such stuff)
+(No Authentication provided, No logging provided )
 
 ## Prerequisite
  1. Dot Net Core 3.1
