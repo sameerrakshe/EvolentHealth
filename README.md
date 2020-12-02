@@ -27,7 +27,7 @@ this application will only meet the below use case.
  1. Create table by using script 'CreateTableScript.sql', (Please change database name in script)
 	Please change Connection strings mentioned in 'appsettings.json' as per your SQL DB credentials
 	"ConnectionStrings": {
-							"TestDBConnection": "Server=P2LP5CG9350TR6;Database=Test;Integrated Security=True;"
+							"TestDBConnection": "Server=SERVER_NAME;Database=Test;Integrated Security=True;"
 						},
  
  2. Go to solution directory (i.e. ManageContacts.sln) in visual studio command prompt
